@@ -1,0 +1,63 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>GWHIZ MEDIA - Designs on the Edge</title>
+<link rel="shortcut icon" href=".\favicon.ico">
+<style type="text/css">
+
+body{
+	font-family: sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	color: #660000;
+	margin: 0px;
+}
+.style1 {color: #000000}
+
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86094203-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body> 
+<DIV STYLE="position:relative; left:0; top:0;
+ height:100%; width:100%; border-style:none;
+ background-image:URL(images/clouds_v1.jpg); 
+ background-repeat:no-repeat;
+ background-position-x:center;
+ background-position-y:top;">
+ 
+		<!--  TOP BORDER  -->
+ 
+		
+  <table align="center" width="946px" height="250px" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        <td width="473px" height="50px" align="left" valign="middle"> <img border="0" alt="" src="images/GW_logo_v4.png" /></td> 
+        <td width="473px" height="50px" align="right" valign="top"> <a href="index.htm"><img border="0" alt="GWHIZ MEDIA Homepage" src="images/menu_home_a.jpg" /></a> <a href="gwhiz.html"><img border="0" alt="GWHIZ: The John G Odyssey" src="images/menu_comic_b.jpg" /></a> <a href="about.htm"><img border="0" alt="About GWHIZ MEDIA" src="images/menu_about_b.jpg" /></a> <a href="portfolio.htm"><img border="0" alt="Portfolio" src="images/menu_portfolio_b.jpg" /></a> <a href="contact.htm"><img border="0" alt="Contact GWHIZ MEDIA" src="images/menu_contact_b.jpg" /></a> </td> 
+      </tr>
+      <tr>
+        <td width="*" align="center valign=" top="" colspan="2"> <img name="gwhiz_splash_02" width="946" height="528" border="0" id="gwhiz_splash_02" usemap="#m_gwhiz_splash_02" alt="" src="gwhiz_splash_02.png" /><map name="m_gwhiz_splash_02" id="m_gwhiz_splash_02"><area target="_blank" title="Buy Something at THE SHOP!" alt="Buy Something at THE SHOP!" href="http://www.cafepress.com/gwhizmedia" coords="622,270,946,528" shape="rect"></area><area title="Start at the Beginning!" alt="Start at the Beginning!" href="http://www.gwhizmedia.com/gwhiz00001.html" coords="623,0,946,263" shape="rect"></area><area title="See the Latest Entry of GWHIZ: The John G Odyssey!" alt="See the Latest Entry of GWHIZ: The John G Odyssey!" href="http://www.gwhizmedia.com/gwhiz.html" coords="0,0,612,527" shape="rect"></area></map></td> 
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" width="946px" border="0" cellpadding="5" cellspacing="0">
+    <tbody>
+      <tr>
+        <td align="left" valign="top" height="*"> <FONT color="#000033" font face="Verdana, Arial, Helvetica, sans-serif" size=2>© 2003-2020 GWHIZ MEDIA, All rights reserved.</font></td> 
+        <td align="right" valign="bottom" height="*"> <a href="http://www.facebook.com/GWHIZMEDIA"><img border="0" alt="Facebook" src="facebook01.png" /></a> <a href="http://www.twitter.com/GWHIZ_MEDIA"><img border="0" alt="Twitter" src="twitter01.png" /></a> <a href="http://instagram.com/gwhiz_media"><img border="0" alt="Instagram" src="instagram01.png" /></a> </td> 
+      </tr>
+    </tbody>
+  </table>
+</div> </body>
+</html>
